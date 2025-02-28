@@ -1,0 +1,12 @@
+{
+    "name": "GundamToken",
+    "description": "Gundam Exia",
+    "symbol": "GNT",
+    "image": "https://imgur.com/a/eG4RNXl",
+    "attributes": [
+        {
+            "trait_type": "Gundam",
+            "value": "Exia"
+        }
+    ]
+}
